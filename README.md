@@ -1,8 +1,8 @@
 ## Olá, sou Corvo 👋
 <div align="center">
   <a href="https://github.com/corvo-exe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=corvo-exe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corvo-exe&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=corvo-exe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corvo-exe&theme=algolia"/>
 </div>
   
 <div style="display: inline_block"><br>
