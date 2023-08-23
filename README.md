@@ -11,5 +11,5 @@
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=corvo-exe&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="flex: 1; margin-right: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=corvo-exe&theme=dark&hide_border=false" style="flex: 1; margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corvo-exe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="flex: 1;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corvo-exe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="flex: 3; width: 100%;">
 </div>
