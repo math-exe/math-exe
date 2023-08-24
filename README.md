@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on meta tracker<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Meta Tracker<br>👯 I’m currently learning Machine Learning for Data Science<br>💬 Ask me about I.A <br>⚡ Fun fact: The name 'Bluetooth' was inspired by a Viking king named Harald Bluetooth, known for unifying Scandinavian tribes. Likewise, Bluetooth technology seeks to unify electronic devices. 📶🛡️
 
 
 ## 🌐 Socials:
