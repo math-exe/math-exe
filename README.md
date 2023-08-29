@@ -11,13 +11,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=math-exe&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=math-exe&theme=onedark&hide_border=true&include_all_commits=false&count_private=true">
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=math-exe&theme=dark&hide_border=false">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=math-exe&theme=onedark&hide_border=true">
     </td>
     <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-exe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-exe&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact">
     </td>
   </tr>
 </table>
