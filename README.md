@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Operaxis <br>👯 I’m currently learning: Machine Learning for Data Science<br>💬 Ask me about: I.A <br>⚡ Fun fact: The name 'Bluetooth' was inspired by a Viking king named Harald Bluetooth, known for unifying Scandinavian tribes. Likewise, Bluetooth technology seeks to unify electronic devices. 📶🛡️
+🔭 I’m currently working on: Operaxis <br>👯 I’m currently learning: Machine Learning for Data Science<br>💬 Ask me about: I.A <br>⚡ Fun fact: friendship = closeness + frequency + duration + intensity.
 
 
 ## 🌐 Socials:
