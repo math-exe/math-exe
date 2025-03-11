@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Operaxis <br>👯 I’m currently learning: Machine Learning for Data Science<br>💬 Ask me about: I.A <br>⚡ Fun fact: friendship = closeness + frequency + duration + intensity.
+🔭 I’m currently working on: Supervisor Panel <br>👯 I’m currently learning: Machine Learning for Data Science<br>💬 Ask me about: I.A <br>⚡ Fun fact: friendship = closeness + frequency + duration + intensity.
 
 
 ## 🌐 Socials:
